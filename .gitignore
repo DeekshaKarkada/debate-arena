@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local database (checkpointed debate state — don't ship dev data)
+debates.sqlite
+debates.sqlite-journal
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
