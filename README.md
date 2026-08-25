@@ -5,10 +5,10 @@ the debate has run its course. Execution then **pauses for human review**
 before a judge agent delivers a structured verdict — a person can add a note
 that visibly shapes the final ruling before choosing to resume.
 
-**Live demo:** [your-app.streamlit.app](#) *(add link once deployed)*
-**Backend API:** [your-backend.onrender.com/docs](#) *(interactive FastAPI docs, add link once deployed)*
+**Live demo:** [https://debateloop.streamlit.app/]
+**Backend API:** [https://debate-arena-f8q9.onrender.com]
 
-![screenshot](docs/screenshot.png) *(add a screenshot before pushing — see checklist below)*
+![demo img](image.png)
 
 ---
 
